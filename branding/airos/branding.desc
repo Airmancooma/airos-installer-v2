@@ -15,7 +15,7 @@ strings:
     supportUrl:          none
 
 images:
-    productLogo:         "logo.png"
+    productLogo:         "icon.png"
     productIcon:         "icon.png"
     productWelcome:      "welcome.png"
 
