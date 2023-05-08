@@ -10,7 +10,7 @@ strings:
     shortVersion:        lunar
     versionedName:       AirOS
     shortVersionedName:  AirOS 23.04
-    bootloaderEntryName: Ubuntu
+    bootloaderEntryName: AirOS
     productUrl:          none
     supportUrl:          none
 
