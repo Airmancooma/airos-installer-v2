@@ -1,0 +1,29 @@
+---
+componentName: airos
+
+windowExpanding:    normal
+
+strings:
+    productName:         AirOS
+    shortProductName:    AirOS
+    version:             23.04
+    shortVersion:        lunar
+    versionedName:       AirOS
+    shortVersionedName:  AirOS 23.04
+    bootloaderEntryName: Ubuntu
+    productUrl:          none
+    supportUrl:          none
+
+images:
+    productLogo:         "logo.png"
+    productIcon:         "icon.png"
+    productWelcome:      "welcome.png"
+
+slideshow:               "show.qml"
+
+slideshowAPI:            1
+
+style:
+   SidebarBackground:    "#808080"
+   SidebarText:          "#FFFFFF"
+   SidebarTextCurrent:   "#0068C8"
