@@ -11,8 +11,8 @@ strings:
     versionedName:       AirOS
     shortVersionedName:  AirOS 23.04
     bootloaderEntryName: AirOS
-    productUrl:          none
-    supportUrl:          none
+    productUrl:          jobbmintagoogle.ddns.net
+    supportUrl:          jobbmintagoogle.ddns.net
 
 images:
     productLogo:         "icon.png"
