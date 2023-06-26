@@ -4,7 +4,7 @@ import libcalamares
 from libcalamares.utils import target_env_call
 
 def remove_airos(config):
-    user = "airos"
+    user = "liveuser"
     target_env_call(['deluser', '--remove-all-files', user])
 
 def run():
